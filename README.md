@@ -45,10 +45,6 @@ GardeningProject/
     └── Rose.java
 ```
 
-## 🧠 Summary for GitHub
 
-This project is a simple Java simulation of a garden with parcels that can be planted with vegetables or flowers. It demonstrates object-oriented design, use of abstract classes and singletons, and supports checking which parcels can be harvested in a given month.
-
----
 
 Made with 💚 for learning and fun!
